@@ -1,6 +1,6 @@
 # Bangla-Food-Review-Sentimental-Analysis-using-Machine-Learning
 
-This is my CSE498R(Directed Research Project)
+This is my CSE498R(Directed Research) Project
 
 Supervisor : Fahmin Ahmed(Afn1)
 
