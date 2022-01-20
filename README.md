@@ -8,3 +8,7 @@ Group Members:
 2.   Faisal Hossain
 3.   Udayan shah Upal
 4.   Anjana tameem
+5.   Abul Kasheem
+
+
+<a href="https://www.researchgate.net/publication/357838400_Bangla_Food_Review_Sentimental_Analysis_using_Machine_Learning">Paper</a>
